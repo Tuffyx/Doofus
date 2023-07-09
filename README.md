@@ -1,4 +1,4 @@
-doofus_4.gif
+[doofus_4.gif](https://github.com/Tuffyx/Doofus/blob/2b561f8dca21f8be5513cfa2dfcc1d6b0a7b1f98/doofus_4.gif)
 
 Doofus is a decent jump'n run by Prestige with colorful graphics, smooth sprites and surprisingly smooth scrolling even under Windows.
 
